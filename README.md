@@ -11,7 +11,7 @@ An awesome list of components and resources for vue scoped slots.
 
 Vue uses [slots](https://vuejs.org/v2/guide/components.html#Content-Distribution-with-Slots) to distribute content. As of version 2.1.0, **scoped slots** extend that capability. One can now pass a template to a slot; the template is rendered in the parent scope, but it has access to child data.
 
-If this sounds confusing, well you're in luck. There are plenty of resources that explain this complicated, yet powerful pattern.
+If this sounds confusing, well you're not alone. There are plenty of resources that explain this complicated, yet powerful pattern.
 
 If you've heard of render props in React, well scoped slots are vue's version of render props. Here's some more info:
 
