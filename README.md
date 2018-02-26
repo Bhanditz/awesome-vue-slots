@@ -32,3 +32,5 @@ If you've heard of render props in React, well scoped slots are vue's version of
 * :computer: [Mouse Position Example](https://codesandbox.io/s/5vxn0nzj0l) by [Darren Jennings](https://twitter.com/darrenjennings/)
 
 ## Components
+
+* [vue-table-component](https://github.com/spatie/vue-table-component#formatting_values)
