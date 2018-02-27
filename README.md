@@ -34,3 +34,6 @@ If you've heard of render props in React, well scoped slots are vue's version of
 ## Components
 
 * [vue-table-component](https://github.com/spatie/vue-table-component#formatting_values)
+* [vue-slider-component](https://github.com/NightCatSama/vue-slider-component)
+* [vue-tweezing](https://github.com/posva/vue-tweezing)
+* [vue-scrollview](https://chrishurlburt.gitbooks.io/vue-scrollview/content/)
