@@ -30,6 +30,8 @@ If you've heard of render props in React, well scoped slots are vue's version of
   * :computer: [Example on Codepen](https://codepen.io/anthonygore/pen/zExPZX?q=scoped+slot&limit=all&type=type-pens)
 * :newspaper: [Understanding Scoped Slots in Vue.js](https://medium.com/corebuild-software/understanding-scoped-slots-in-vue-js-db5315a42391) by [Cristi Jora](https://twitter.com/jora_cristi)
 * :computer: [Mouse Position Example](https://codesandbox.io/s/5vxn0nzj0l) by [Darren Jennings](https://twitter.com/darrenjennings/)
+* :newspaper: :computer: [Intro to Vue.js: Components, Props, and Slots](https://css-tricks.com/intro-to-vue-2-components-props-slots/) by [Sarah Drasner](https://twitter.com/sarah_edo)
+* :newspaper: :computer: [Creating Reusable Transitions in Vue](https://vuejsdevelopers.com/2018/02/26/vue-js-reusable-transitions/?jsdojo_id=revue_rtv&utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Vue.js%20Developers) by [Cristi Jora](https://twitter.com/jora_cristi)
 
 ## Components
 
