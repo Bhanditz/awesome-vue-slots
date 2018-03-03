@@ -1,23 +1,31 @@
 # Awesome Vue Slots
 
-An awesome list of components and resources for vue scoped slots.
+An awesome list of components and resources for vue slots.
 
 > **Note**: This is this is _heavily_ inspired by [awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props)
 > by [Jared Palmer](https://twitter.com/jaredpalmer). Thanks Jared!
 
 > PRs welcome!
 
-## Scoped Slots :microscope:
+## What are slots?
 
-Vue uses [slots](https://vuejs.org/v2/guide/components.html#Content-Distribution-with-Slots) to distribute content. As of version 2.1.0, **scoped slots** extend that capability. One can now pass a template to a slot; the template is rendered in the parent scope, but it has access to child data.
+Vue supports slots, which provide a way distribute content between components. They're an outstanding way to make your components _truly_ reusable.
 
-If this sounds confusing, well you're not alone. There are plenty of resources that explain this complicated, yet powerful pattern.
+:books: [Read the documentation for motivation and overview!](https://vuejs.org/v2/guide/components.html#Content-Distribution-with-Slots)
 
-If you've heard of render props in React, well scoped slots are vue's version of render props. Here's some more info:
+### What are scoped slots? :microscope:
 
-* :bird: [Scoped slots are vue's version of render props. Powerful pattern!](https://twitter.com/kentcdodds/status/951173960913379328)
-* :microphone: [Full Stack Radio: Evan You - Advanced Vue Component Design](http://www.fullstackradio.com/81)
+As of Vue version 2.1.0, **scoped slots** extend the capability of slots. One can now pass a template to a slot; the template is rendered in the parent scope, but it has access to child data.
+
+This is a more advanced pattern, but that doesn't mean you can't learn them!
+
+> **Note**: We'll use a :microscope: to indicate items that have to do with scoped slot
+
+Here's some material to help motivate scoped slots:
+
 * :books: [Scoped Slots Documentation](https://vuejs.org/v2/guide/components.html#Scoped-Slots)
+* :bird: [Scoped slots are vue's version of render props.](https://twitter.com/kentcdodds/status/951173960913379328)
+* :microphone: [Full Stack Radio: Evan You - Advanced Vue Component Design](http://www.fullstackradio.com/81)
 
 ## Videos
 
