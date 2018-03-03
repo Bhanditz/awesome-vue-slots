@@ -27,19 +27,25 @@ Here's some material to help motivate scoped slots:
 * :bird: [Scoped slots are vue's version of render props.](https://twitter.com/kentcdodds/status/951173960913379328)
 * :microphone: [Full Stack Radio: Evan You - Advanced Vue Component Design](http://www.fullstackradio.com/81)
 
-## Videos
+## Videos :tv:
 
-* :microscope: [Learn Vue 2: Step By Step: Scoped Slots](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/33) by [vuecasts.com](https://laracasts.com/series/learn-vue-2-step-by-step)
-* :microscope: [Pass Props Between Components with Vue Slot Scope](https://egghead.io/lessons/vue-js-pass-props-between-components-with-vue-slot-scope) :dollar: by [John Lindquist](https://twitter.com/johnlindquist)
+* [Named Slots in a Nutshell](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/14) by [Laracasts](https://laracasts.com/series/learn-vue-2-step-by-step)
+* :dollar: [Place Content in Components with Vue Slots](https://egghead.io/lessons/vue-js-place-content-in-components-with-vue-slots) by [John Lindquist](https://twitter.com/johnlindquist)
+* :dollar: [Create Layouts with Named Vue Slots](https://egghead.io/lessons/vue-js-create-layouts-with-named-vue-slots) by [John Lindquist](https://twitter.com/johnlindquist)
+* :microscope: [Scoped Slots](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/33) by [Laracasts](https://laracasts.com/series/learn-vue-2-step-by-step)
+* :microscope: :dollar: [Pass Props Between Components with Vue Slot Scope](https://egghead.io/lessons/vue-js-pass-props-between-components-with-vue-slot-scope) by [John Lindquist](https://twitter.com/johnlindquist)
 
-## Articles :blue_book: and Examples :computer:
+## Articles :blue_book:
 
-* :blue_book: :microscope: [Getting Your Head Around Vue.js Scoped Slots](https://vuejsdevelopers.com/2017/10/02/vue-js-scoped-slots/) by [Anthony Gore](https://twitter.com/anthonygore?lang=en)
-  * :computer: [Example on Codepen](https://codepen.io/anthonygore/pen/zExPZX?q=scoped+slot&limit=all&type=type-pens)
-* :blue_book: :microscope: [Understanding Scoped Slots in Vue.js](https://medium.com/corebuild-software/understanding-scoped-slots-in-vue-js-db5315a42391) by [Cristi Jora](https://twitter.com/jora_cristi)
-* :computer: :microscope: [Mouse Position Example](https://codesandbox.io/s/5vxn0nzj0l) by [Darren Jennings](https://twitter.com/darrenjennings/)
-* :blue_book: :computer: [Intro to Vue.js: Components, Props, and Slots](https://css-tricks.com/intro-to-vue-2-components-props-slots/) by [Sarah Drasner](https://twitter.com/sarah_edo)
-* :blue_book: :computer: [Creating Reusable Transitions in Vue](https://vuejsdevelopers.com/2018/02/26/vue-js-reusable-transitions/?jsdojo_id=revue_rtv&utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Vue.js%20Developers) by [Cristi Jora](https://twitter.com/jora_cristi)
+* [Intro to Vue.js: Components, Props, and Slots](https://css-tricks.com/intro-to-vue-2-components-props-slots/) by [Sarah Drasner](https://twitter.com/sarah_edo)
+* [Creating Reusable Transitions in Vue](https://vuejsdevelopers.com/2018/02/26/vue-js-reusable-transitions/?jsdojo_id=revue_rtv&utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Vue.js%20Developers) by [Cristi Jora](https://twitter.com/jora_cristi)
+* :microscope: [Getting Your Head Around Vue.js Scoped Slots](https://vuejsdevelopers.com/2017/10/02/vue-js-scoped-slots/) by [Anthony Gore](https://twitter.com/anthonygore?lang=en)
+* :microscope: [Understanding Scoped Slots in Vue.js](https://medium.com/corebuild-software/understanding-scoped-slots-in-vue-js-db5315a42391) by [Cristi Jora](https://twitter.com/jora_cristi)
+
+## Examples :computer:
+
+* :microscope: [Getting Your Head Around Vue.js Scoped Slots](https://codepen.io/anthonygore/pen/zExPZX?q=scoped+slot&limit=all&type=type-pens) by [Anthony Gore](https://twitter.com/anthonygore?lang=en)
+* :microscope: [Mouse Position Example](https://codesandbox.io/s/5vxn0nzj0l) by [Darren Jennings](https://twitter.com/darrenjennings/)
 
 ## Components
 
