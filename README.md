@@ -53,3 +53,4 @@ Here's some material to help motivate scoped slots:
 * :microscope: [vue-slider-component](https://github.com/NightCatSama/vue-slider-component)
 * :microscope: [vue-tweezing](https://github.com/posva/vue-tweezing)
 * :microscope: [vue-scrollview](https://chrishurlburt.gitbooks.io/vue-scrollview/content/)
+* :microscope: [vue-countdown](https://github.com/xkeshi/vue-countdown)
